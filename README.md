@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&repeat=false&width=435&lines=Rao+Zaeem+Shahid" alt="Typing SVG" />
   </a>
   <a href="https://github.com/raozaeemshahid">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Student+Of+Mind;Reader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 <!-- Social icons section -->
