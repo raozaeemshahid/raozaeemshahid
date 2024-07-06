@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/raozaeemshahid/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/raozaeemshahid"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://medium.com/@raozaeemshahid"><img  alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.facebook.com/raozaeemshahid/"><img  alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <br/>
     <a href="https://www.hackerrank.com/raozaeemshahid"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
     <a href="https://leetcode.com/raozaeemshahid/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a> 
